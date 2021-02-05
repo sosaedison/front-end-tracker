@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: #919191;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.login-container {
+    background-color: white;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 40%;
+    min-width: 200px;
+    border: 2px solid #2b2d42;
+}
+
+.Login-Button {
+    top: 50%;
+}
+
+.dashboard {
+    align-content: center;
+    display: flex;
+    border-radius: .5em;
+    background-color: black;
+}
+
+.data-container {
+    margin: auto;
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    padding: 10px 10px; 
+    border-radius: .5em;
+}
+
+.Navbar{
+    top: 0;
+}
